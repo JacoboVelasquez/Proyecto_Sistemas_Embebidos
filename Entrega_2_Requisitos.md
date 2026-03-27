@@ -11,7 +11,7 @@
 - **RF9:** El sistema debe generar una alerta cuando el nivel del tanque principal sea crítico o vacío.
 - **RF10:** El sistema debe operar de manera automática sin intervención del usuario durante su funcionamiento normal.
 
-### Test Cases:
+### Test Cases - RF:
 
 #### Test Case 1:
 ![alt text](tc1.png)
@@ -63,6 +63,18 @@ El sistema debe presentar la información de temperatura y niveles de agua de fo
 El sistema debe permitir la fácil sustitución de sensores y actuadores sin afectar el funcionamiento general.
 
 ### Test Cases - RNF:
+
+#### Test Case 11:
+![alt text](12.png)
+#### Test Case 12:
+![alt text](13.png)
+#### Test Case 13:
+![alt text](14.png)
+#### Test Case 14:
+![alt text](15.png)
+#### Test Case 15:
+![alt text](16.png)
+
 
 #  Plan de Testing Detallado
 
