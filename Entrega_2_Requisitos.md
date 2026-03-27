@@ -11,4 +11,22 @@
 - **RF9:** El sistema debe generar una alerta cuando el nivel del tanque principal sea crítico o vacío.
 - **RF10:** El sistema debe operar de manera automática sin intervención del usuario durante su funcionamiento normal.
 
-![alt text](Plantilla-TC1.png)
+![alt text](tc1.png)
+
+![alt text](tc2.png)
+
+![alt text](tc3.png)
+
+![alt text](tc4.png)
+
+![alt text](tc5.png)
+
+![alt text](tc6.png)
+
+![alt text](tc7.png)
+
+![alt text](tc8.png)
+
+![alt text](tc9.png)
+
+![alt text](tc10.png)
