@@ -236,15 +236,17 @@ Cada requisito será validado mediante pruebas físicas utilizando instrumentos 
 
 12.	**RNF4: Usabilidad**
 
+- El sistema debe operar dentro de rangos seguros de voltaje sin generar sobrecargas.
+
 *Procedimiento*:
-- Observar la interfaz gráfica
-- Verificar legibilidad de datos
+- Medir voltaje en los pines de salida (LED, bomba, etc.)
+- Verificar valores durante operación
 
 *Herramientas*:
-- PC con GUI
+- Multímetro
 
 *Validación*:
-- Información clara y comprensible
+- Voltajes dentro de rangos seguros (ej: 3.3V / 5V)
 
 13.	**RNF5: Mantenibilidad**
 
