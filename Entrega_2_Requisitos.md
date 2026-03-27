@@ -13,22 +13,32 @@
 
 ### Test Cases:
 
+#### Test Case 1:
 ![alt text](tc1.png)
 
+#### Test Case 2:
 ![alt text](tc2.png)
 
+#### Test Case 3:
 ![alt text](tc3.png)
 
+#### Test Case 4:
 ![alt text](tc4.png)
 
+#### Test Case 5:
 ![alt text](tc5.png)
 
+#### Test Case 6:
 ![alt text](tc6.png)
 
+#### Test Case 7:
 ![alt text](tc7.png)
 
+#### Test Case 8:
 ![alt text](tc8.png)
 
+#### Test Case 9:
 ![alt text](tc9.png)
 
+#### Test Case 10:
 ![alt text](tc10.png)
