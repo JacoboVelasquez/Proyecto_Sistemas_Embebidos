@@ -1,4 +1,4 @@
-#Entrega 3
+# Entrega 3
 
 ## Esquemático del circuito y componentes 
 ![alt text](31.jpg)
