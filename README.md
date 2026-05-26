@@ -33,9 +33,9 @@ Diseñar e implementar un sistema embebido que permita monitorear y controlar la
 - Detectar cuando el tanque de almacenamiento de agua se encuentre vacío.
 
 6. *Asignación de roles*:
-Technical Lead: Jacobo Velásquez Durango  
-Firmware Engineer: Orlando Velásquez Granda
-Hardware Integration Engineer: María José Rojas Mosquera 
-Verification & Testing Engineer : María José Rojas Mosquera , Orlando Velásquez Granda y  Jacobo Velásquez Durango  
+- Technical Lead: Jacobo Velásquez Durango  
+- Firmware Engineer: Orlando Velásquez Granda
+- Hardware Integration Engineer: María José Rojas Mosquera 
+- Verification & Testing Engineer : María José Rojas Mosquera , Orlando Velásquez Granda y  Jacobo Velásquez Durango  
 
 ![alt text](image.png)
